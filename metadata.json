@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Shadow Vault ver3 fleek",
+  "description": "A high-performance seedless crypto wallet featuring multi-chain support, social recovery, and an integrated Gemini AI assistant for transaction analysis and guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
